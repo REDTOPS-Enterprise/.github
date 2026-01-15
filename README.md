@@ -30,6 +30,6 @@ We don’t care if the "purest" developers think we’re playing god with the so
 We’re here to push the hardware until it smokes and the software until it’s perfect. 
 
 * **Want to contribute?** Bring your best logic and leave your ego at the door. 
-* **Found a bug?** File an issue, or better yet, fix it yourself and fire the clanker to do better next time.
+* **Found a bug?** File an issue, or better yet, fix it yourself and tell that clanker to do better next time.
 
 **REDTOPS Enterprise: Breaking things so you don't have to.**
