@@ -10,8 +10,8 @@ At **REDTOPS Enterprise**, we have a specific way of doing things. We call it **
 
 Look to get something out of the way, we talk about "vibe coding," but let’s get one thing straight: **REDTOPS is not an AI company. We’re a Software Company.** We are operating with beating hearts. We value human intuition, grit, and the ability to solve a problem with nothing but a text editor and a caffeinated brain. 
 
-We aren't here to let a machine do all of our thinking for us. **We do what is best for the software, period.
-**
+We aren't here to let a machine do all of our thinking for us. We do what is best for the software, period.
+
 **You should follow these tipes when using Generative AI:**
 * **Use ONLY it when you’re stuck:** If you’re staring at a C++ template error for three hours and the void is starting to stare back, ask the clanker for a ladder. 
 * **Use it for the grunt work:** If you need to generate 500 lines of repetitive boilerplate so you can get to the "cool stuff," let the machine sweat.
