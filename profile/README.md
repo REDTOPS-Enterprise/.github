@@ -33,6 +33,7 @@ We don’t care if the "purest" developers think we’re playing god with the so
 ## 🚀 Join the Chaos
 We’re here to push the hardware until it smokes and the software until it’s perfect. 
 Just make sure to follow our [contribution guidelines!](https://github.com/REDTOPS-Enterprise/.github/blob/main/profile/CONTRIBUTING.md)
+And if you really need to, check out the ["Questions we already know ur gonna say"](https://github.com/REDTOPS-Enterprise/.github/blob/main/profile/FAQ.md) page
 
 * **Want to contribute?** Bring your best logic and leave your ego at the door. 
 * **Found a bug?** File an issue, or better yet, fix it yourself and tell that clanker to do better next time.
