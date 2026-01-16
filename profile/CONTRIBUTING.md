@@ -23,7 +23,7 @@ AI is a power tool, like a jackhammer—it’s great for breaking ground, but yo
 
 ## 🎭 Culture & Stability (The "Human" Element)
 
-Also one thing, we’re sometimes serious about performance, but we aren't boring. You’ll find jokes in the comments, weird variable names in the experimental branches, and a general lack of "corporate stiffness." Most of us at **REDTOPS** like to keep things light while we’re pushing the hardware to its limit.
+Also one thing, we’re sometimes serious about performance, but we aren't boring. You might find jokes in the comments, weird variable names in the experimental branches, and a general lack of "corporate stiffness." Most of us at **REDTOPS** like to keep things light while we’re pushing the hardware to its limit.
 
 **A Note on Stability:**
 Because we move fast and "vibe" hard, things can get... shaky. If you’re the type of developer who enjoys taking our high-speed chaos and finding ways to **stabilize** it without killing much of the performance, we love you. Seriously. If you can make our mad-scientist experiments actually survive a production environment, you’re doing the Lord’s work. We thank you, and the hardware thanks you.
