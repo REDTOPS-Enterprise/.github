@@ -1,6 +1,11 @@
+<img width="1830" height="698" alt="bannerfinal" src="https://github.com/REDTOPS-Enterprise/.github/blob/main/RTEBanner.png?raw=true"/>
+
+
+
 # REDTOPS Enterprise (RTE)
 
 ## "Speed first. Questions later. Safety... eventually."
+
 
 Listen up. At **REDTOPS Enterprise**, we’ve stopped asking 'how' things are supposed to be done and started asking 'why' they aren't done yet. 
 
@@ -33,3 +38,4 @@ We’re here to push the hardware until it smokes and the software until it’s 
 * **Found a bug?** File an issue, or better yet, fix it yourself and tell that clanker to do better next time.
 
 **REDTOPS Enterprise: Breaking things so you don't have to.**
+### Part of the Parafield Family.
