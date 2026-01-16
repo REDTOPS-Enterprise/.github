@@ -51,7 +51,7 @@ But anyway with all that out of the way there is 5 simple steps when working or 
 ### 🛑 DON'T:
 * **Don't Ship Bloat:** If your PR adds a 20gb dependency just to sort a list, we will find you.
 * **Don't "Clean Code" us to Death:** If you rewrite a high-speed function into three "cleaner" nested functions that run 70% slower, your PR will be closed immediately.
-* **Don't Ask for Permission:** If you see a way to make REDLINE 2x faster, don't open an issue asking if you should. **Do it.** Then show us the benchmark.
+* **Don't Ask for Permission:** If you see a way to make REDLINE 2x faster, don't open an issue asking if you should. **Do it.** Then show us the benchmark. However if you really need to ask, then feel free to message us.
 
 ---
 
