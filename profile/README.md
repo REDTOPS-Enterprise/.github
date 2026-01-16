@@ -6,7 +6,6 @@
 
 ## "Speed first. Questions later. Safety... eventually."
 
-
 Listen up. At **REDTOPS Enterprise**, we’ve stopped asking 'how' things are supposed to be done and started asking 'why' they aren't done yet. 
 
 The industry is bloated. It’s slow. It’s terrified of its own shadow. They spend four months in 'sprints' just to move a button. Not us. We’re building the bedrock—the heavy hitters. And how are we doing it? **Any way we damn well please.**
@@ -33,6 +32,7 @@ We don’t care if the "purest" developers think we’re playing god with the so
 
 ## 🚀 Join the Chaos
 We’re here to push the hardware until it smokes and the software until it’s perfect. 
+Just make sure to follow our [contribution guidelines!](https://github.com/REDTOPS-Enterprise/.github/blob/main/profile/CONTRIBUTING.md)
 
 * **Want to contribute?** Bring your best logic and leave your ego at the door. 
 * **Found a bug?** File an issue, or better yet, fix it yourself and tell that clanker to do better next time.
